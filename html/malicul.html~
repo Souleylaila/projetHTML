@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="author" lang="fr" content="Diarra ibrahim,Sow Laila">
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body class="pp">
+<header lang="en">
+<img src="../images/c.jpeg" alt="" class="c1">
+<span id="heure"> </span>
+
+<nav>
+<input type="button" value="<back" onclick="history.go(-1)">
+<a href="init.html" class="b1">Accueil</a>
+
+<a href="malidesc.html" class="b1">Description</a>
+<a href="malihis.html" class="b1">Histoire</a> 
+<a href="malicul.html" class="b3">Culture</a> 
+<a href="maligas.html" class="b1">Gastronomie</a> 
+<a href="contact.html" class="b1">Contact</a> 
+<input type="button" value="next>" onclick="history.go(+1)">
+</nav>
+
+
+</header>
+ <p>Le mali est un pays avec une grandes diversités culturelle.Le pays a su conserver les éléments 
+ importants de ses cultures traditionnelles. Les griots (ou « Djéli ») exercent toujours leurs fonctions 
+ de musiciens-poètes transmettant l’histoire du pays et des hommes sur plusieurs générations.
+ </p>
+ <img src="../images/griot.jpg" alt="" > 
+ <video controls src="../video/conseil.mp4" class="vi2"></video>
+ <h3>Langue</h3>
+ <p>
+Le français est la langue officielle, mais la plus utilisée est le bambara qui est parlé par plus de 50 % 
+de la population. Cette dernière, ainsi que douze autres (bobo, bozo, dogon, peul, soninké, songhaï (ou songoy),
+sénoufo-minianka, tamasheq, hassanya, khassonké, mandinka et le maninkakan) sont reconnues par l'État comme des
+langues nationales42.
+Le recensement de 1987 a enregistré la langue parlée par les personnes de plus de six ans. Le bambara arrive 
+largement en tête (38,3 %), suivi du peul (11,7 %), du dogon (6,9 %), du songhay (6,3 %) et du soninké (12,3 %)43.
+La connaissance du français a également beaucoup progressé. En 1960, 66 000 Maliens savaient lire et écrire en 
+français. En 1985, ils étaient 564 000. En 2009, ils étaient 2,2 millions44.
+Les régions du Mali de Gao, Kayes, Kidal, Koulikoro, Mopti, Segou, Sikasso et de Tombouctou sont membres de 
+l'Association internationale des régions francophones45. Le Mali est membre de l'Assemblée parlementaire de la
+francophonie ainsi que de l'Organisation internationale de la francophonie.
+ </p>
+
+<h5>quelques conversation en bambara</h5>
+<audio controls="controls">
+  <source src="../musique/AfrilanguesBambara.mp3" type="audio/mp3" />
+  Votre navigateur n'est pas compatible
+</audio>
+<audio controls="controls">
+  <source src="../musique/12mois.mp3" type="audio/mp3" />
+  Votre navigateur n'est pas compatible
+</audio>
+
+ 
+ <h3>Communautés</h3>
+ 
+ <p>La population du Mali est divisée en plusieurs communautés.
+  Les peuples nomades et semi-sédentaires se trouvent au nord. Les Maures, les Kountas et
+  les Touaregs représentent environ 10 % de la population. Les premiers sont traditionnellement
+  spécialisés dans le commerce de la gomme arabique tandis que les seconds et les troisièmes sont éleveurs 
+  nomades ; ils se déplacent en permanence à la recherche de pâturages frais pour leur bétail.
+  Plus au sud, on trouve les Bambaras (28 %) qui représentent le groupe majoritaire, autour de la capitale Bamako, 
+  ainsi que les Malinkés qui leur sont apparentés et les Soninkés, les Peuls, les Sénoufos, les Bwas, les Bozos, les
+  Dogons, les Songhaïs, les Khassonkés.
+  Les Touaregs, les Songhaïs, les Kountas et les Bérabichs résident dans le Nord du Mali, la partie la plus aride
+  et la moins peuplée du pays. Les Bellas, qui sont d'anciens esclaves des Touaregs, vivent dans ces mêmes régions.
+  </p>
+   <img src="../images/culture1.jpg" alt="" > 
+  <h3>Musique</h3>
+  <p>
+ <img src="../images/culture.jpg" alt="" class="soudan" > 
+  Les mélodies traditionnelles, autrefois jouées sur la kora, continuent d'alimenter la musique 
+  d'aujourd'hui via des interprètes dignes descendants des griots tels Diaby Doua, Mamadou Diabaté, Ganda Fadiga, 
+  Toumani Diabaté, Babani Koné, Amy Koita, Tata Bambo, Mah Kouyaté, Sekou Kouyaté. Parmi les non-griots, on peut
+   également citer Salif Keïta, Ali Farka Touré, Boubacar Traoré, Rokia Traoré, Oumou Sangaré et Samba Touré.
+  La diversité de la musique malienne met en valeur la diversité culturelle du Mali. On peut ainsi trouver différents
+  styles musicaux comme les chansons de chasseurs, la musique du wassoulou, les griots, etc.
+  Les instruments utilisés sont essentiellement le n'goni, la kora, le balafon, le bara, le n'dounu.
+  La musique malienne est surtout connue à travers des célébrités comme Amadou et Mariam Bagayogo, 
+  le « couple aveugle » qui a créé Beaux dimanches (Le dimanche à Bamako…), Ali Farka Touré le deux fois nommé
+  aux Grammy Awards, Salif Keïta, Habib Koité, Samba Touré, héritier de la musique d'Ali Farka Touré, Mama Sissoko 
+  qui fut plagié par le célèbre chanteur américain Carlos Santana et dont l'affaire fut portée devant la justice 
+  américaine en 2005, Oumou Sangaré, Oumar Koïta, qui est naturalisé allemand, ou encore Mokobé, jeune Malien de 
+  France qui a su s'imposer dans le milieu du rap tout en n'oubliant pas ses racines et en collaborant avec plusieurs
+  artistes africains. Ballaké Sissoko œuvre par ses collaborations avec des musiciens européens comme le 
+  violoncelliste Vincent Ségal ou le pianiste Ludovico Einaudi au rayonnement de la kora et de la culture malienne.
+  La musique dogon est bien souvent l'oubliée de ce patrimoine très riche. Cette musique dogon est diverse et variée.
+  Elle est étroitement associée aux différents rites : mariages, funérailles, etc. Après Kadja Lélé, la vétérane, 
+  la jeune chanteuse Déné Issébéré est l'emblème de cette culture musicale dogon aussi bien au Mali qu'en dehors des
+  frontières maliennes.
+  La musique touareg est appréciée au-delà des frontières maliennes, notamment le blues touareg ; 
+  elle est représentée entre autres par le groupe Tinariwen, initiateur et leader de ce courant musical.
+  Le rap est aussi tres developpé dans le pays.
+    
+  </p>
+  <h5>Quelques exemples de musiques</h5>
+  <video controls src="../video/MARIKOBABA.mp4"></video>
+  <audio controls="controls">
+  <source src="../musique/oumou.mp3" type="audio/mp3" />
+  Votre navigateur n'est pas compatible
+  </audio>
+<audio controls="controls">
+  <source src="../musique/oudée.mp3" type="audio/mp3" />
+  Votre navigateur n'est pas compatible
+</audio>
+
+ 
+
+<h3>Cinema</h3>
+
+<p><img src="../images/timbuktou.jpg" alt="" class="c2">
+Le cinemat malien n'est pas tres tres développer mais quelques film on eut un succet internationnal comme 
+timbouktou 
+ou yelen.
+</p>
+<p>
+Des films typiques maliens existe mais ne sont connu que dans le pays .
+C'est la pluspart du temps des comedie .
+</p>
+
+ 
+  <a href="#top" class="monte">Monter la page</a>
+ 
+<script  src="../js/script2.js">
+</script>        
+</body>
+</html>

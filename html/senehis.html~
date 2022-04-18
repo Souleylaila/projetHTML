@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="author" lang="fr" content="Diarra ibrahim,Sow Laila">
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body class="ody">
+<header>
+<img src="../images/c.jpeg" alt="" class="c1">
+<span id="heure"> </span>
+
+<nav>
+<input type="button" value="<back" onclick="history.go(-1)">
+<a href="init.html" class="b1">Accueil</a>
+
+<a href="senedesc.html" class="b1">Description</a>
+<a href="senehis.html" class="b3">Histoire</a> 
+<a href="senecul.html" class="b1">Culture</a> 
+<a href="senegas.html" class="b1">Gastronomie</a> 
+<a href="contact.html" class="b1">Contact</a> 
+<input type="button" value="next>" onclick="history.go(+1)">
+</nav>
+
+
+</header>
+<h3>Historiographie</h3>
+
+Comme pour bien d'autres pays du continent africain, l'écriture de cette histoire se heurte à de multiples difficultés2, tant méthodologiques qu'idéologiques.
+
+Les commentaires attribués à certains explorateurs antiques3, les manuscrits des voyageurs arabes constituent les premiers témoignages connus4. C'est à partir du XVe siècle que l'on dispose de sources européennes5 – narrations, compilations ou documents d'archives –, dont la finalité n'était généralement pas historique au départ : le chevalier de Boufflers décrit son exil à madame de Sabran, le naturaliste Adanson détaille la flore et la faune du pays, le directeur de la Compagnie du Sénégal Durand relate les péripéties de son expédition et l'abbé Boilat, dans ses Esquisses sénégalaises, pense surtout à l'évangélisation de la contrée.
+Raymond Mauny près de Joal (Sénégal) en 1967
+
+Tantôt naïf, tantôt condescendant, le colonisateur se veut à la fois historien, ethnographe et pédagogue, comme en témoignent les ouvrages publiés par les administrateurs de l'AOF, les « villages noirs »6 ou l'Exposition coloniale de 1931. Devant leurs réalités ainsi figées et dénaturées, les populations se voient privées de leur propre histoire. En outre la non-reconnaissance de leur participation à l'effort de guerre alimente une prise de conscience croissante à partir des années 1950, qui trouve un écho dans la déclaration d'indépendance en 1960, mais aussi dans la pensée novatrice de l'historien et anthropologue sénégalais Cheikh Anta Diop, chef de file de ce qu'on appellera l'« École de Dakar »7. Dans l'intervalle les recherches archéologiques8, dynamisées sous l'égide de l'IFAN par Raymond Mauny et d'autres chercheurs européens, ont été relayées par des spécialistes nationaux et le Sénégal compte aujourd'hui nombre d'historiens de premier plan, tels que Abdoulaye Ly, Boubacar Barry, Abdoulaye Bathily, Hamady Bocoum, Iba Der Thiam, Mamadou Diouf ou Oumar Kane, disparu en 2008.
+
+L'écriture de l'histoire du Sénégal implique aussi un combat contre la montre, car le patrimoine est toujours sous la menace du climat, des insectes9 ou de la pénurie budgétaire. Sa sauvegarde reste préoccupante d'un point de vue scientifique, sans parler des enjeux touristiques dans le cas de Saint-Louis, Gorée ou Karabane.
+
+Les traditions orales – désormais reconnues patrimoine oral et immatériel de l'humanité par l'UNESCO – sont un peu mieux prises en compte, comme en témoigne ce colloque international consacré aux traditions orales du Kaabu en 1980 à Dakar10, mais n'ont pas encore trouvé une vraie place dans la construction du savoir à l'occidentale.
+<h3>Protohistoire</h3>
+
+Dans le cas du Sénégal, la périodisation de la protohistoire reste controversée. En effet, on assimile souvent celle-ci à l'âge des métaux, en la situant donc entre la première métallurgie et l'apparition de l'écriture. Or cette définition eurocentrée semble peu adaptée aux réalités africaines. C'est pourquoi d'autres approches sont à prendre en considération, comme celle de Guy Thilmans et de son équipe qui, dès 198023, ont estimé que toute l'archéologie des temps pré-coloniaux pouvait être rattachée à cette appellation, ou encore celle d'Hamady Bocoum qui parle d'« archéologie historique » à partir du IVe siècle, du moins pour l'ancien Tekrour24.
+Amas coquilliers au cimetière de Fadiouth
+
+Même si le débat n'est pas encore tranché, l'abondance de tels vestiges ne fait pas de doute, notamment dans l’ouest du pays, dans les vallées fluviales et à proximité de la frontière avec la Gambie.
+
+Quatre ensembles peuvent être distingués :
+
+    Sur le littoral et dans les estuaires des fleuves (Sénégal, Saloum, Gambie et Casamance), on observe de fortes concentrations de tumulus et d'amas coquilliers – que l'on désigne parfois sous leur nom danois Køkkenmødding (en anglais, kitchen midden), ce qui signifie « détritus de cuisine ». 217 de ces amas ont été recensés dans le seul delta du Saloum22, par exemple à Joal-Fadiouth25, mais on en trouve aussi dans le nord près de Saint-Louis26, ainsi que dans l’estuaire de la Casamance27. Parmi les mollusques identifiés, l'espèce dominante est l'Anadara senilis, également dénommée « arche » ou « pagne »28.
+    L’ouest du pays est riche en tumulus funéraires constitués de sable, que les Wolofs désignent sous le nom de mbanaar, c'est-à-dire tombe29, alors que les Sérères les appellent podom30,31,32. Un pectoral en or massif pesant 191 grammes a en outre été découvert à Rao-Ngueguela, près de Saint-Louis33.
+
+ <h3>Alignement mégalithique au Sénégal</h3>
+
+    C'est dans une très vaste zone de près de 33 000 km2 localisée dans le centre-sud du pays tout autour de la Gambie que l'on trouve les alignements de grosses pierres connus sous le nom de cercles mégalithiques de Sénégambie et inscrits sur la liste du patrimoine mondial de l'UNESCO en 200634. Deux de ces sites se trouvent sur le territoire sénégalais : Sine Ngayène35 et Sine Wanar, tous deux situés dans le département de Nioro du Rip. Sine Ngayène compte 52 cercles mégalithiques dont un double cercle. À Wanar où l'on en dénombre 24, les pierres sont de plus petite taille. On y trouve des pierres-lyres taillées dans la latérite, en forme de Y ou de A.
+
+    L'existence de vestiges protohistoriques dans la moyenne vallée du fleuve Sénégal est confirmée dès la fin des années 197036. Des poteries, des disques perforés en céramique37 ou des objets de parure ont ainsi été mis au jour. 
+    <img src="../images/wo.jpg" alt="" title="">
+<img src="../images/wo1.jpg" alt="" title="">
+<img src="../images/wo2.jpg" alt="" title="">
+<img src="../images/wo3.jpg" alt="" title="">
+<img src="../images/wo4.jpg" alt="" title="">
+<img src="../images/wo6.jpg" alt="" title="">
+<img src="../images/wo7.jpg" alt="" title="">
+
+
+
+
+<img src="../images/wo5.jpg" alt="" title="">
+
+
+
+    <h3>Les débuts du XXIe siècle</h3>
+
+Porté par son slogan sopi (changement en wolof), l'opposant de longue date Abdoulaye Wade, chef de file du Parti démocratique sénégalais, remporte l'élection présidentielle du 19 mars 2000, avec 58,5 % des suffrages au second tour, devant le président sortant Abdou Diouf. Le 9 décembre 2000 le Sénat et le Conseil économique et social sont supprimés.
+
+En 2001 une nouvelle constitution réduit le mandat présidentiel de 7 à 5 ans. L'Assemblée nationale – au sein de laquelle le Parti socialiste est majoritaire – est dissoute le 5 février 2001. 25 formations politiques sont autorisées à participer aux élections législatives anticipées. Pour la première fois au Sénégal, un parti écologiste, Les Verts, entre en lice dans une consultation électorale, mais n'obtient aucun siège.
+
+À la suite de la démission de Moustapha Niasse, la juriste Mame Madior Boye est la première femme à occuper les fonctions de Premier ministre dans le pays, du 3 mars 2001 au 4 novembre 2002. Les élections législatives du 12 mai 2001 voient la victoire de la coalition Sopi proche du président Wade, ce qui permet à 9 nouveaux ministres d'entrer au gouvernement, renforçant ainsi le poids du PDS. Quelques jours plus tard, 10 partis d'opposition s'unissent pour créer un « Cadre permanent de concertation » (CPC). Le 25 août 2001 25 partis créent cette fois une structure de soutien à l'action du président Wade : « Convergence des actions autour du Président en perspective du 21e siècle » (CPC). Le 15 février 2002 la création d'une Commission électorale nationale autonome (CENA) est décidée, en remplacement de l'Observatoire national des élections (ONEL). Elle prendra ses fonctions en 2005.
+Monument dédié aux victimes du Joola à Ziguinchor
+
+Le 26 septembre 2002 le Sénégal vit une tragédie nationale avec le naufrage du Joola, le ferry qui reliait Dakar à Ziguinchor en Casamance. Plus de 1 800 passagers y perdent la vie. Les négligences constatées suscitent un forte rancœur à l’égard des pouvoirs publics87. La région, déjà affectée par son enclavement, perd sa liaison maritime pendant trois ans et l'île de Karabane, ancienne escale, ne peut plus compter que sur les pirogues.
+
+Ce drame n'est pas sans conséquences sur la carrière de Mame Madior Boye qui est remplacée par Idrissa Seck, maire de Thiès et numéro deux du Parti démocratique sénégalais (PDS). Seck sera Premier ministre du 4 novembre 2002 au 21 avril 2004. Son ministre de l'Intérieur Macky Sall lui succède lorsqu'il tombe en disgrâce en raison de ses responsabilités dans la gestion des chantiers de Thiès et peut-être de ses ambitions nationales.
+
+Abdoulaye Wade est facilement réélu lors de l’élection présidentielle de 2007, et malgré le mot d'ordre de boycott de l'opposition lors des élections législatives consécutives, il dispose d’une majorité écrasante à l'Assemblée nationale et au Sénat, rétabli en début d'année.
+Le président Wade (deuxième à droite) au sommet du G8 en 2007
+
+Le Président mène une politique libérale ouvertement revendiquée qui donne certains résultats88. En effet le Sénégal devient une terre d’élection pour les investisseurs d’Europe, mais aussi des émirats du Golfe – c'est le cas de Dubaï Ports World qui enlève l’exploitation du port de Dakar –, du Brésil, de Chine, d’Iran ou d’Inde – par exemple avec le géant mondial de la sidérurgie, Arcelor Mittal. Abdoulaye Wade appelle également à la création d’États-Unis d’Afrique et de grands travaux d’infrastructures ont été lancés en vue du 11e sommet de l’Organisation de la conférence islamique (OCI) qui s’est tenu à Dakar en mars 2008.
+
+Mais la politique gouvernementale essuie aussi des revers, comme l’inexorable recul du secteur agricole (arachide, coton…), l’effondrement de l’industrie chimique en 2006, le développement insuffisant du secteur tertiaire ou l’engorgement persistant de la capitale. Le pays reste très dépendant de l’aide extérieure, notamment des subsides envoyés par l’importante diaspora sénégalaise. Le ralentissement de la croissance et un taux de chômage élevé poussent bien des jeunes Sénégalais à l’émigration, parfois au péril de leur vie. L’augmentation du coût de la vie, notamment liée à la hausse des cours du pétrole, suscite des manifestations de rue en novembre 2007.
+
+Beaucoup89 dénoncent aussi une dérive autoritaire du pouvoir, – guère tempérée par un Premier ministre généralement présenté avant tout comme un technocrate90, Cheikh Hadjibou Soumaré –, et qui laisse une marge de manœuvre réduite à l’opposition, ainsi qu’aux médias, pour la plupart solidaires de l’action présidentielle. La question de la future succession d’Abdoulaye Wade, réélu à 80 ans, apparaît en filigrane dans le débat politique actuel, alimenté notamment par les spéculations sur les intentions de son fils Karim Wade91.
+
+Lors des élections locales du 22 mars 2009, le PDS, parti au pouvoir, essuie un sérieux revers dans la plupart des grandes villes dont Dakar convoité par Karim Wade, au profit de la coalition d'opposition Bennoo Siggil Senegaal. Après la démission de Cheikh Hadjibou Soumaré le 30 avril 2009, Souleymane Ndéné Ndiaye est nommé Premier ministre.
+
+<img src="../images/wade.jpg" alt="" title="">
+<img src="../images/sa.jpg" alt="" title="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script  src="../js/script2.js">
+</script>        
+</body>
+</html>

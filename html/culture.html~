@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="author" lang="fr" content="Diarra ibrahim,Sow Laila">
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body>
+<header lang="en">
+<img src="../images/c.jpeg" alt="" class="c1">
+<span id="heure"> </span>
+
+<nav>
+<input type="button" value="<back" onclick="history.go(-1)">
+<a href="init.html" class="b1">Accueil</a>
+<a href="description.html" class="b1">Description</a>
+<a href="histoire.html" class="b1">Histoire</a> 
+<a href="culture.html" class="b3">Culture</a> 
+<a href="gastronomie.html" class="b1">Gastronomie</a> 
+<a href="contact.html" class="b1">Contact</a> 
+<input type="button" value="next>" onclick="history.go(+1)">
+</nav>
+
+</header>
+
+<p class="z">Ereure! vous n'avez pas choisie de pays. Cliquer sur aceuil et choisisez un pays dans la liste. </p>
+<script  src="../js/script2.js">
+</script>        
+</body>

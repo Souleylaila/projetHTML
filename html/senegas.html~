@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="author" lang="fr" content="Diarra ibrahim,Sow Laila">
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body class="ody">
+<header>
+<img src="../images/c.jpeg" alt="" class="c1">
+<span id="heure"> </span>
+
+<nav>
+<input type="button" value="<back" onclick="history.go(-1)">
+<a href="init.html" class="b1">Accueil</a>
+
+<a href="senedesc.html" class="b1">Description</a>
+<a href="senehis.html" class="b1">Histoire</a> 
+<a href="senecul.html" class="b1">Culture</a> 
+<a href="senegas.html" class="b3">Gastronomie</a> 
+<a href="contact.html" class="b1">Contact</a> 
+<input type="button" value="next>" onclick="history.go(+1)">
+</nav>
+
+
+</header>
+<div class="co">
+			<div class="ga">
+				<h1><u>Une cuisine conviviale</u></h1>
+                Un moment de convivialité.
+
+               La teranga (hospitalité) en est le principe de base. Famille, amis de passage, invités de circonstance, se regroupent autour d'un plat unique (appelé bol) dans lequel tout le monde pioche, à la main, avec une cuillère (couddou en pulaar) ou en se servant, d'un morceau de pain, sa nourriture au sein de son petit territoire. Parfois, une personne partage un morceau plus gros ou difficile de découpe et le répartit entre les convives.
+
+
+              En ville on peut cependant se procurer des en-cas rapides dans les éventaires de plein air, dans les dibiteries (du français « débiter ») qui proposent des portions de mouton grillé avec des oignons (dibi), ou encore dans les restaurants libanais spécialisés dans les sandwiches nommés chawarmas.
+               <hr>
+               Produits de base
+
+             <ul>
+             	<li>La proximité de l'océan Atlantique donne aux poissons une place de choix dans les préparations locales, comme le thiéboudienne (ou Ceebu jën). Le plus réputé est le thiof (Epinephelus aeneus) ou mérou bronzé à la chair ferme et fine. Mais les ressources halieutiques du pays sont innombrables : mulet, carpe rouge, carangue, capitaine, ombrine, thon, sole, barracuda, lotte, saint-pierre, espadon, etc. Le poisson est tantôt braisé, fumé, séché et/ou salé et fermenté, notamment pour en faire un condiment, le guèdje.</li>
+            
+            	<li> Grâce aux mangroves notamment, on trouve aussi des fruits de mer de qualité : huîtres de palétuviers – cuites à la braise –, crabes, araignées de mer, cigales de mer, poulpes,  langoustes, gambas, crevettes, etc  Vente de coquillages à Joal-Fadiouth
+                 Maggi publicité peinte à Meckhe</li>
+
+                
+
+           
+            	<li>
+            		La viande ne fait pas nécessairement partie du plat de résistance, notamment dans les régions les plus pauvres. En outre les éleveurs peuls par exemple ne mangent guère les bêtes de leur troupeau, destinées avant tout à la production de lait 
+            	</li>
+            
+           
+           	<li> Les étals des marchés et les dibiteries proposent surtout du mouton, mais également du bœuf, néanmoins plus coûteux.</li>
+           <li>Selon les régions, on consommera aussi parfois de la chèvre.</li>
+           <li>En revanche, limité aux rares régions chrétiennes, le porc est peu présent.</li>
+           <li>Économique, le poulet remplace souvent les autres viandes. Il est vendu entier ou découpé en morceaux, puisque c'est sous cette forme qu'il est utilisé dans les différentes préparations. On appelle « poulet du pays » l'animal élevé en plein air dans les cours. Plus ferme et plus savoureux, il est préféré aux volailles en batterie que les élevages modernes fournissent aux supermarchés, ici comme ailleurs.</li>
+           <li>Partout les céréales constituent le produit alimentaire de base. Le mil (soungouf) se prépare en bouillie, en boulettes, ou sous forme de couscous. Sa cuisson, dans de grandes marmites, est longue.</li>
+           <li>Le fonio est une céréale rustique et peu exigeante, mais dotée de qualités nutritives, que l'on trouve surtout dans le Sénégal oriental. On l'utilise un peu à la manière du mil.</li>
+           <li>Traditionnellement cultivé en Casamance et plus récemment dans les zones irriguées le long du fleuve Sénégal, le riz est pourtant souvent importé d'Asie. Ses grains sont généralement courts ou cassés, ce qui donne des préparations plus onctueuses que le riz long. À noter par exemple la préparation du riz wolof.</li>
+           <li>Comme les cultures maraîchères sont généralement tributaires de l'irrigation, les légumes consommés dans les grandes villes proviennent principalement de la Grande-Côte (c'est-à-dire de la section du littoral comprise entre Saint-Louis et Dakar), plus précisément des collines que l'on appelle Niayes. Cependant les approvisionnements sont parfois limités ou de qualité modeste en saison sèche. La tomate est l'un des légumes les plus répandus au Sénégal, mais les boîtes de concentré sont aussi omniprésentes. Certains légumes semblent assez familiers au visiteur occidental, comme les choux, les carottes ou les aubergines. D'autres le sont moins comme les gombos, des légumes verts oblongs et fibreux que l'on mange en sauce avec du riz ou utilisés parfois comme légumes, les niébés, de petits haricots à l'œil noir, très riches en protéines, les racines du manioc, les feuilles de manioc sont moins consommées que dans les autres pays d'Afrique de l'ouest. Différentes couleurs et textures de lalo pour donner du liant au couscous</li>
+
+       
+        
+
+         <li>Pour relever les plats, le cube Maggi – ou l'arôme liquide de la même marque, surnommé ici « corrige-madame » – et le concentré de tomate en sont des ingrédients pratiquement incontournables, comme en témoigne la réutilisation systématique de ces boîtes de conserve, notamment pour fabriquer des modèles réduits vendus aux touristes.</li>
+         <li>Le yet aussi appelé cymbium est un mollusque séché artisanalement sur les plages. Il sert à donner du goût à certains plats comme la soupe kandia ou le thiébou dieune, etc. Après avoir cassé la coquille, le mollusque est enterré plusieurs jours dans le sable pour le faisander. Lavé dans quatre ou cinq eaux différentes il est alors coupé en tranches et mis à sécher au soleil, cela lui donnera un parfum très fort.</li>
+         <li>La saison des pluies en Casamance est propice à la production de fruits tropicaux juteux. Sur les marchés en général on trouve surtout : mangues jaunes ou vertes, oranges, mandarines, dattes, pamplemousses, papayes, jujubes, goyaves à chair rose, noix de coco, corossol à la délicieuse pulpe blanche. Dans les restaurants ces fruits sont également proposés sous forme de sorbets, de compotes ou de soufflés. Quant au fruit du baobab, le pain de singe, il a un goût acidulé particulier. Sa pulpe est utilisée en boisson appelée (bouye). Le Sénégal étant un pays sahélien, la plupart des fruits comme les bananes, les ananas, la banane plantain, les avocats, etc. sont importés de pays au climat plus humide. Par contre il existe une grande variété de fruits souvent secs produits localement comme la jujube appelée siddem, le solom, les madd (cultivés en Casamance), les toll, le tamarin appelé dakkhar (dont on dit qu'il aurait donné son nom à la capitale), le soump, le houle (fruit du néré), la figue de barbarie appelée gargambossé, le ditakh, le dankkh, le néw, etc. La plupart de ces fruits poussent naturellement dans les arbustes des brousses sablonneuses et leur prix peu onéreux les rend accessibles à tout le monde.</li>
+         <li>Au royaume de l'arachide, les cacahuètes crues, bouillies, grillées, salées ou sucrées sont souvent proposées dans la rue, ainsi que des noix de cajou ou d'autres petites choses à grignoter.
+         	Préparations
+         On peut localiser les différentes recettes selon les aires géographiques du Sénégal. Chaque région a donc ses spécialités, mais la plupart des plats sont consommés indistinctement dans tout le pays. Voici un aperçu d'une partie des plats et desserts les plus consommés :
+
+         Le thiéboudienne
+       
+         </li>
+        
+        
+         
+       	<li>(il existe de multiples façons de l'écrire : tiéboudieunne, thiep bou dien, ceebu jen, cep bu jen…) inventé par Penda Mbaye, une grande cuisinière du XIXe siècle à Saint-Louis est le plat national. Les Sénégalais appellent d'ailleurs affectueusement ce plat « thiéboudieune Penda Mbaye » (le riz au poisson de Penda Mbaye). En wolof (ceebu jën) l'expression signifie littéralement « riz au poisson ». C'est en effet une préparation à base de poisson frais (souvent du thiof), de poisson séché, de yet (mollusque faisandé au goût prononcé) et de riz (riz wolof), cuits avec des légumes (manioc, citrouille, chou, carotte, navet, aubergine…), du persil, de la purée de tomate, des piments, de l'ail et des oignons. Il en existe deux variantes : le thiéboudieune rouge (le plus connu) appelé ceeb bu xonq (riz rouge) cuisiné avec de la tomate et accompagné parfois d'une sauce appelé le souwer et composé de petites boulettes de poisson frites et mijotées dans une sauce tomate aux oignons et la macédoine, et le thiéboudieune blanc appelé ceeb bu weex (riz blanc) où il n'y aura presque pas de tomate, mais dont le riz sera du riz wolof. Le tieb bou wekh sera souvent accompagné d'une sorte de sauce fouettée faite à base de feuilles d'oseille de Guinée appelée beugueudj et d'une préparation au gout assez caractéristique faite à base de nététou (fruits du néré fermentés) appelée soule.</li>
+       <li>Le yassa de poulet est également un plat originaire de Casamance. Le poulet, coupé en morceaux, est d'abord mariné (traditionnellement pendant toute une nuit) avec des oignons, du jus de plusieurs citrons verts complété par autant de vinaigre et d'huile d'arachide, puis grillé au feu de bois et enfin cuit doucement dans sa marinade. On l'accompagne de riz blanc, si possible du riz diola. Le yassa peut également être préparé avec du mouton, du poisson..</li>
+       <li>Le bassi salté (ou céré bassi salté), une recette élaborée venue du Sine-Saloum (région de Fatick et Kaolack se prépare tout particulièrement à l'occasion de la Tamkharit, le jour de l'an musulman. C'est un couscous de mil des grands jours qui nécessite de nombreux ingrédients : petites boulettes de viande de mouton appelées « diaguas », pommes de terre, patates douces, haricots blancs, choux, carottes, mais aussi raisins secs, voire dattes, sans oublier la sauce tomate à la viande ou au poulet. Il est d'ailleurs souvent cuisiné avec les deux viandes différentes. C'est une recette aux influences maghrébines. D'ailleurs bassi salté serait la déformation de bassi saladin en référence au saladins (arabo-berbères) qui auraient apporté cette recette, adaptée par la suite à la gastronomie sénégalaise. C'est un plat sucré-salé. Comme la plupart des plats de couscous au Sénégal, il se déguste avec du lait en fin de plat..Préparation du maffé</li>
+   
+
+       
+
+       
+       	<li>Le mafé (ou maffé) est originaire du Mali mais réadapté à la gastronomie sénégalaise, le mafé malien et le mafé sénégalais étant d'ailleurs gustativement différents. C'est un plat à base de riz wolof avec une sauce onctueuse à la pâte d'arachide qui lui donne une saveur particulière. On peut éventuellement adjoindre de la viande et des légumes (par ex. : mafé kandja lorsqu'on ajoute des gombos). Le riz est parfois remplacé par du niébé, les haricots locaux dans le Sud et dans l'Est..Soupe candia</li>
+       
+
+       
+
+     
+      	<li>La soupe kandia (ou soupou kandja) se prépare avec du riz, du poisson séché et du yet (mollusque séché), des fruits de mer, du poisson fumé, parfois de la viande accompagnés d'une sauce à base de gombos et d'huile de palme..</li>
+      <li>Le domoda est un plat originaire du Sénégal oriental préparé avec du riz accompagné d'une sauce vinaigrée à la tomate et à la farine. Elle est accompagnée de légumes et il en existe trois variantes : domoda à la viande, poisson, boulettes..</li>
+      <li>Le lakhou bissap ou ngourbane chez les Sérères est un plat assez rustique du Centre et de l'Ouest, en pays Wolof et Sérère. Il est fait à base de semoule de mil, appelée sankkhal de viande parfois, de poisson séché, d'oseille, de tamarin, etc. Il a la consistance d'un potage..</li>
+      <li>On peut citer bien d'autres plas consommés au quotidien par les Sénégalais comme le mbakhal, le dakhine, le mbakhalou saloum, le thiou, le pépéssou, le cébon ou mbakhalou diola, etc..</li>
+      <li>Les pastels sont des sortes de petits beignets plats farcis avec du poisson et des épices accompagnés d'une sauce à la tomate souvent servis comme gouter ou amuse-gueules..</li>
+  </ul>
+      <hr>
+			</div>
+			<div class="do">
+				<img src="../images/se.jpg" alt="" title="" class="bb">
+				<img src="../images/co.jpg" alt="" title="" class="ba">
+				<img src="../images/ju.jpg" alt="" title="" class="bc">
+				<img src="../images/po.jpg" alt="" title="" class="bd">
+				<img src="../images/th.jpg" alt="" title="" class="be">
+				
+
+			</div>
+		
+         <a href="#top">Monter la page</a>
+	
+
+<script src="../js/script2.js">
+</script>        
+</body>
+</html>

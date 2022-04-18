@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="author" lang="fr" content="Diarra ibrahim,Sow Laila">
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body>
+<header lang="en">
+<img src="../images/c.jpeg" alt="&dfjkd" class="c1">
+<span id="heure"> </span>
+<nav>
+<input type="button" value="<back" onclick="history.go(-1)">
+<a href="description.html" class="b1">Description</a>
+<a href="histoire.html" class="b1">Histoire</a> 
+<a href="culture.html" class="b1">Culture</a> 
+<a href="gastronomie.html" class="b1">Gastronomie</a> 
+<a href="contact.html" class="b1">Contact</a> 
+<input type="button" value="next>" onclick="history.go(+1)">
+</nav>
+<span>
+<select id="g">
+<option>Choisir un pays</option>
+<option>Mali</option>
+<option>Guinn&eacute;e</option>
+<option>S&eacute;negale</option>
+
+</select>
+<a href="" id="env">
+<input type="button" value="envoyer" onclick="pays()">
+</a>
+</span>
+</header>
+<p>L’Afrique de l’Ouest est une région terrestre couvrant toute la partie occidentale de l’Afrique subsaharienne.
+ Elle comprend approximativement les pays côtiers au nord du golfe de Guinée jusqu’au fleuve Sénégal,
+  les pays couverts par le bassin du fleuve Niger ainsi que les pays de l’arrière-pays sahélien.
+</p>
+<form>
+<img src="../images/bogolan.jpg" alt="" id="can" >
+<select id="f" onchange="changes()">
+<option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+<option>6</option>
+<option>7</option>
+<option>8</option>
+<option>9</option>
+<option>10</option>
+<option>11</option>
+</select>
+</form>
+<a href="https://www.youtube.com/watch?v=v4rTTqIOcFA" target="_blank" class="b2">Cliquer ici pour découvrir l'Afrique de l'ouest en video</a>
+<p>
+Berceau des empires successifs du Ghana, du Mali et Songhaï, l'Afrique de l’Ouest est un ensemble de pays qui possèdent des influences et un héritage communs.
+Le système de parenté à plaisanterie qui lie encore aujourd'hui les ethnies et groupes sociaux ouest-africains entre eux en est un exemple frappant. 
+L'autorité impériale s’exerçait à travers le contrôle du commerce transsaharien, la production d'or et de sel.
+Son déclin s'amorce au xvie siècle avec le développement du commerce maritime. Morcelée et affaiblie après la bataille de Tondibi,
+l'Afrique de l'Ouest subit la colonisation européenne et américaine à la fin au xixe siècle et durant la première partie du xxe siècle. 
+Certains fondements de la civilisation ouest-africaine ainsi que l'histoire impériale tombent alors progressivement dans l'oubli mais la redécouverte des manuscrits 
+de Tombouctou ouvre un espoir considérable pour leur compréhension.
+L'Afrique de l'Ouest est aujourd'hui une communauté de peuples, qui tend à se reconstituer politiquement,
+avec notamment la Communauté économique des États de l'Afrique de l'Ouest (CÉDÉAO), et un espace de civilisation forgé
+par une histoire millénaire. 
+Selon le FMI, le PIB PPA global des États membres de la CÉDÉAO s'élève à 564,86 milliards de dollars ce qui en
+ fait la 25e puissance économique du Monde.Les États ouest-africains ont créé la CÉDÉAO avec le but initial de créer
+ une union économique et monétaire ouest-africaine. Toutefois, en 1990, son pouvoir est étendu au maintien de la 
+ stabilité régionale avec la création de l'ECOMOG, groupe militaire d’intervention qui devient permanent en 1999
+ ce qui lui confère d'importants moyens de pression diplomatique. Néanmoins d'importants dysfonctionnements apparaissent 
+ au sein de la CÉDÉAO suite transitions démocratiques difficiles en Guinée (2009) et en Côte d'ivoire (2010).
+ Ils s'amplifient face à l'émergence de divers groupes djihadistes qui constituent aujourd'hui
+ la première menace sécuritaire dans la région. Ainsi, en 2012, des groupes armés prennent le contrôle du Nord du Mali 
+ qui est contraint de demander l'intervention militaire de la France face à l'inaction de la CÉDÉAO 
+ et aucune réponse militaire commune n'a été mise en place face à l'insurrection djihadiste au Nigeria menée depuis 
+ 2009 par Boko Haram et Ansaru.
+</p>
+<a href="#top" class="monte">Monter la page</a>
+
+ <script src="../js/script.js">
+ 
+
+</script>       
+</body>
+</html>

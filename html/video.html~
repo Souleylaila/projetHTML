@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="author" lang="fr" content="Diarra ibrahim,Sow Laila">
+
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body>
+
+<video controls src="../video/mali.mp4" class="vi" poster="../images/conflit.jpg"></video>
+   <video controls src="../video/mali1.mp4" class="vi1" poster="../images/a.png"></video>
+
+
+
+<script  src="../js/script2.js">
+</script>        
+</body>
+</html>

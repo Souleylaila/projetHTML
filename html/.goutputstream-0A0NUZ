@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body>
+<header>
+<img src="../images/c.jpeg" alt="" class="c1">
+<span id="heure"> </span>
+
+<nav>
+<a href="init.html" class="b1">Accueil</a>
+
+<a href="malidesc.html" class="b1">Description</a>
+<a href="malihis.html" class="b3">Histoire</a> 
+<a href="malicul.html" class="b1">Culture</a> 
+<a href="maligas.html" class="b1">Gastronomie</a> 
+<a href="contact.html" class="b1">Contact</a> 
+</nav>
+
+
+</header>
+<p> nigeria</p>
+<script  src="../js/script2.js">
+</script>        
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="author" lang="fr" content="Diarra ibrahim,Sow Laila">
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body>
+
+<img src="../images/cartemali.jpg" alt="" class="pow" >
+
+
+
+
+
+<script  src="../js/script2.js">
+</script>        
+</body>
+</html>

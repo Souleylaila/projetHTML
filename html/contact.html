@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="author" lang="fr" content="Diarra ibrahim,Sow Laila">
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body id="contact">
+<header lang="en">
+<img src="../images/c.jpeg" class="c1" alt="">
+<span id="heure"> </span>
+
+<nav>
+<input type="button" value="<back" onclick="history.go(-1)">
+<a href="init.html" class="b1">Accueil</a>
+<a href="Description.html" class="b1">Description</a>
+<a href="Histoire.html" class="b1">Histoire</a> 
+<a href="Culture.html" class="b1">Culture</a> 
+<a href="Gastronomie.html" class="b1">Gastronomie</a> 
+<a href="Contact.html" class="b3">Contact</a>
+<input type="button" value="next>" onclick="history.go(+1)"> </nav>
+
+</header>
+<label>Quelle est votre couleur preferer</label>
+<input type="color" value="#FFFFFF" id="z">
+<input type="button" value="changer de couleur" onclick="modifCould()">
+
+<form >
+<fieldset>
+<legend>contacter laila      </legend>				
+<label >sexe</label>
+<input type="radio" name="sexe" checked="checked">masculin
+<input type="radio" name="sexe" >feminin   <br>
+<label for="prenom">prenom</label>
+<input type="text" name="prenom" value="" id="prenom"><br>
+<label for="nom">nom  </label>
+<input type="text" name="nom" value="" id="nom" ><br>
+<label for="age">age  </label>
+<input type="text" name="age" placeholder="entre 0 et 100" value="" id="age"><br>
+<label>tel</label>
+<input type="tel" value="" id="tel"><br>
+<label for="email">email </label>
+<input type="text" placeholder="ex:blabla@gmail.com" value="" id="email"> <br>
+
+<label>votres question</label>
+<textarea placeholder="votre message" id="text" ></textarea>
+<input type="reset" value="effacer">
+<input type="submit" value="envoyer" onclick="valider()">
+	
+</fieldset>
+</form>
+
+<form >
+<fieldset>
+<legend>contacter ibrahim     </legend>				
+<label >sexe</label>
+<input type="radio" name="sex" checked="checked">masculin
+<input type="radio" name="sex" >feminin   <br>
+<label for="prenom">prenom</label>
+<input type="text" name="prenom" value="" id="prenomi"><br>
+<label for="nom">nom  </label>
+<input type="text" name="nom" value="" id="nomi" ><br>
+<label for="age">age  </label>
+<input type="text" name="age" placeholder="entre 0 et 100" value="" id="agei"><br>
+<label>tel</label>
+<input type="tel" value="" id="teli"><br>
+<label for="email">email </label>
+<input type="text" placeholder="ex:blabla@gmail.com" value="" id="emaili"> <br>
+
+<label>votres question</label>
+<textarea placeholder="votre message" id="texti" ></textarea>
+<input type="reset" value="effacer">
+<input type="submit" value="envoyer" onclick="valideri()">
+	
+</fieldset>
+</form>
+
+<script  src="../js/script2.js">
+</script>        
+</body>
+</html>

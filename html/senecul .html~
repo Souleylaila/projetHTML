@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="author" lang="fr" content="Diarra ibrahim,Sow Laila">
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body class="ody">
+<header>
+<img src="../images/c.jpeg" alt="" class="c1">
+<span id="heure"> </span>
+
+<nav>
+<input type="button" value="<back" onclick="history.go(-1)">
+<a href="init.html" class="b1">Accueil</a>
+
+<a href="senedesc.html" class="b1">Description</a>
+<a href="senehis.html" class="b1">Histoire</a> 
+<a href="senecul.html" class="b3">Culture</a> 
+<a href="senegas.html" class="b1">Gastronomie</a> 
+<a href="contact.html" class="b1">Contact</a> 
+<input type="button" value="next>" onclick="history.go(+1)">
+</nav>
+
+
+</header>
+<p>senegale cul</p>
+<script  src="../js/script2.js">
+</script>        
+</body>
+</html>

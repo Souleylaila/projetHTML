@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body>
+<header>
+<img src="../images/c.jpeg" alt="" class="c1"></img>
+<span id="heure"> </span>
+
+<nav>
+<a href="init.html" class="b1">Accueil</a>
+
+<a href="guindesc.html" class="b1">Description</a>
+<a href="guinhis.html" class="b1">Histoire</a> 
+<a href="guincul.html" class="b1">Culture</a> 
+<a href="guingas.html" class="b3">Gastronomie</a> 
+<a href="contact.html" class="b1">Contact</a> 
+</nav>
+
+
+</header>
+<p> la guinnee est un pays d'afrique de l'ouest. Sa superficie est de 1241238 kmcarrée et compte de nos jour 17milion d'abitants</p>
+<script  src="../js/script2.js">
+</script>        
+</body>
+</html>

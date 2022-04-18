@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body>
+<a href="" > bala<span><img src="../images/c.jpeg" title="  "></span> </a>
+
+
+
+
+<script src="../js/script2.js">
+</script>        
+</body>
+</html>

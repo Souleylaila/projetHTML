@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body>
+<header>
+<img src="../images/c.jpeg" alt="" class="c1">
+<span id="heure"> </span>
+
+<nav>
+<input type="button" value="<back" onclick="history.go(-1)">
+<a href="init.html" class="b1">Accueil</a>
+
+<a href="malidesc.html" class="b1">Description</a>
+<a href="malihis.html" class="b3">Histoire</a> 
+<a href="malicul.html" class="b1">Culture</a> 
+<a href="maligas.html" class="b1">Gastronomie</a> 
+<a href="contact.html" class="b1">Contact</a> 
+<input type="button" value="next>" onclick="history.go(+1)">
+</nav>
+
+
+</header>
+<p> Le Mali possède une histoire riche et relativement bien connue.
+ Il a été le siège de trois grands empires : l'empire du Ghana, l'empire du Mali et l'empire Songhaï. 
+ Il sera par la suite une colonie française. Quelques années après l'indépendance, il subira la dictature de
+  Moussa Traoré avant de connaître un régime démocratique depuis le début des années 1990.</p>
+  <h3>Histoire du Mali</h3>
+ <table>
+<tr>
+<dt> Histoire précoloniale </dt>  
+<dt>Préhistoire: Les premières traces de peuplement humain remontent au Ve millénaire av. J.-C.
+Au IIIe millénaire av. J.-C. les modifications climatiques entraînent un fort afflux de populations en provenance
+du Sahara.
+Apres l'Empire du Ghana aussi nommé Ouagadou apparait, il est érigé par les Sarakolés au IVe siècle. 
+Il fonde sa prospérité sur le sel et l'or. L'empire se désagrégera en 1076 suite aux percées des berbères venus
+islamiser l'Afrique occidentale.Apres sa disparution fut fondée
+l'empire du Mali au XIe siècle il sera unifié par Sundjata Keïta en 1222 qui proclame la Charte du Manden.
+À son apogée sous le règne de Mansa Moussa il s'étendait sur une région comprise entre l'océan Atlantique et le Niger.
+Ce souverain sera célèbre pour les fastes de son pèlerinage à la Mecque. Son armée était composée de 100 000 soldats. 
+La prospérité de l'empire reposait sur le commerce transsaharien du cuivre, du sel, de l'or et des étoffes. 
+Les caravanes favoriseront également les échanges culturels. Tombouctou, Gao et Djenné furent les centres
+économiques et culturels de cette civilisation au centre de l'islam soudano-malien.
+
+L'Empire Songhaï Fondé par Sonni Ali Ber puis Askia Mohammed  supplante l'empire du Mali à partir du XVe siècle.
+Il s'étend alors sur la plus grande partie du Mali actuel. En 1591 l'empire est quasiment entièrement démantelé par
+les troupes du pacha Djouder en provenance du Maroc.
+Succéde une mosaïque de petits États: les royaumes bambaras de Ségou et du Kaarta, l'Empire peul du Macina,
+l'Empire toucouleur, le Royaume du Kénédougou... La pratique de l'esclavage se développe pendant cette période.
+Au XIXe siècle les Bambaras qui comme les Dogons ont résisté à l'islamisation sont victimes de la guerre sainte
+menée par le chef musulman El Hadj Oumar Tall.</dt> 
+  </tr>
+  
+ 
+  
+  </table>
+<script  src="../js/script2.js">
+</script>        
+</body>
+</html>

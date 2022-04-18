@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="author" lang="fr" content="Diarra ibrahim,Sow Laila">
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body>
+
+<img src="../images/a.png" alt="" >
+<img src="../images/e.jpg" alt="" >
+<img src="../images/g.jpg" alt="" >
+<img src="../images/d.jpeg" alt="" >
+<img src="../images/m.jpg" alt="" >
+<img src="../images/cartemali.jpg" alt="" >
+<img src="../images/conflit.jpg" alt="" >
+<img src="../images/j.jpg" alt="" >
+<img src="../images/k.jpg" alt="" >
+<img src="../images/mosque.jpg" alt="" >
+<img src="../images/masque.jpg" alt="" >
+<img src="../images/oumousng.jpg" alt="" >
+<img src="../images/sidikijpg.jpg" alt="" >
+<img src="../images/segou.jpg" alt="" >
+<img src="../images/takoula.jpg" alt="" >
+<img src="../images/x.jpeg" alt="" >
+<img src="../images/c.jpg" alt="" >
+<img src="../images/colo.jpg" alt="" >
+<img src="../images/soudan.png" alt="" >
+<img src="../images/to.jpg" alt="" >
+<img src="../images/tikadeke.jpg" alt="" >
+<img src="../images/u.jpg" alt="" >
+<img src="../images/ppjpg.jpg" alt="" >
+<img src="../images/tomboctoujpg.jpg" alt="" >
+<img src="../images/mangermali.jpg" alt="" >
+<img src="../images/modibokeita.jpg" alt="" >
+<img src="../images/griot.jpg" alt="" >
+<img src="../images/culture.jpg" alt="" >
+<img src="../images/culture1.jpg" alt="" >
+
+
+
+
+
+
+
+ <a href="#top" class="monte">Monter la page</a>
+<script  src="../js/script2.js">
+</script>        
+</body>
+</html>

@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="author" lang="fr" content="Diarra ibrahim,Sow Laila">
+<title>Titre de la page</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+
+</head>
+<body class="ody">
+<header>
+<img src="../images/c.jpeg" alt="" class="c1">
+<span id="heure"> </span>
+
+<nav>
+<input type="button" value="<back" onclick="history.go(-1)">
+<a href="init.html" class="b1">Accueil</a>
+
+<a href="guindesc.html" class="b3">Description</a>
+<a href="guinhis.html" class="b1">Histoire</a> 
+<a href="guincul.html" class="b1">Culture</a> 
+<a href="guingas.html" class="b1">Gastronomie</a> 
+<a href="contact.html" class="b1">Contact</a> 
+<input type="button" value="next>" onclick="history.go(+1)">
+</nav>
+
+
+</header>
+<h1>Étymologie</h1>
+<p> 
+
+L'origine exacte du nom Guinée est incertaine. On sait que le mot « Guinée » vient de Portugais « guine », qui a émergé au milieu du XVe siècle pour désigner la région habitée par les « Guineus », ce terme générique désignant les peuples africains qui vivaient au sud de fleuve Sénégal (par rapport aux Berbères Sanhadjas, qui vivaient au nord, appelés « Maures »). Une théorie affirme que les Portugais ont emprunté le nom de « Guineus » au berbère « Ghinawen » (souvent arabisé comme « Guinauha » ou « Genewah »), signifiant « brûlé les gens » de même, le terme berbère « aginaw » ou « Akal-n Iguinawen » signifie « noir » ou « pays des noirs »[réf. nécessaire].
+
+Dans la langue soussou, la langue parlée par l'ethnie soussou (l'une des plus importantes installées historiquement sur la côte atlantique de la Guinée Conakry et de la Sierra Leone), le mot signifie « femme guine ». Il est très probable que l'origine du nom du pays soit liée à cette racine.
+
+Gomes Eanes de Zurara a largement utilisé le nom de « Guinée » dans ses chroniques de 1453 et en 1483. Le roi Jean II du Portugal a pris le titre de Senhor da Guiné (Seigneur de Guinée).
+
+Aujourd'hui le pays est aussi parfois appelé Guinée-Conakry, pour le distinguer de ses voisins, la Guinée-Bissau et la Guinée équatoriale. </p>
+
+ <img src="../images/Guinee_carte.png" alt=""  class="po" title="carte">
+ <img src="../images/Guinea_Topography.png" alt=""  class="po" title="relief">
+ <img src="../images/Guinea_sat.png" alt=""  class="po" title="climat" >
+  <img src="../images/bb.jpg" alt=""  class="po" title="nature de la guinée" >
+   
+ <p>La Guinée se trouve sur la côte atlantique de l’Afrique de l'Ouest.
+
+Elle est entourée de la Guinée-Bissau au nord-ouest (385 km de frontières), du Sénégal (330 km) et du Mali (858 km) au nord, de la Côte d'Ivoire (610 km) à l'est, du Liberia (563 km) et de la Sierra Leone (652 km) au sud et de l'océan Atlantique à l'ouest.
+
+On distingue quatre zones géographiques : </p>
+ <ul> 
+ <li>une zone côtière, la Basse-Guinée, Guinée maritime ou le Kakandé </li>
+ <li>une zone montagneuse, la Moyenne-Guinée, qui comprend le massif du Fouta-Djalon ;</li>
+ <li>une zone de savane au nord-est, la Haute-Guinée, ou le Mandé ;</li>
+ <li>une zone de forêts au sud-est, la Guinée forestière.</li>
+
+ </ul>
+  <p>Ces quatre zones, parfois appelées « régions naturelles », ne correspondent pas aux régions administratives. </p>
+ <h1> Relief et géologie </h1>
+<p>Topographie de la Guinée.
+
+La plaine côtière de Guinée maritime est dominée à l'Est par le massif de Benna (1 214 m), le mont Kakoulima (1 011 m) et le mont Gangan (1 117 m). La Moyenne-Guinée entoure le massif du Fouta-Djalon qui occupe environ 80 000 km2 et culmine au mont Loura (1 532 m). Il est constitué principalement de plateaux étagés souvent à plus de 1 000 m, entaillés par des vallées, dominant des plaines et dépressions jusqu'à environ 750 m. Près de Dalaba, le mont Kavendou est à 1 421 m. Le massif du Fouta Djalon est principalement constitué de grès siliceux et de schistes mais d'importantes surfaces sont recouvertes par des cuirasses ferrugineuses ou bauxitiques. À l'est du Fouta Djalon, la Haute-Guinée est un bassin schisteux avec quelques sommets isolés. La Guinée forestière juxtapose des massifs élevés aux versants abrupts, mont Simandou (en) et mont Nimba, des bas plateaux et des plaines, des bas-fonds et des vallées inondables4.
+
+Le point culminant est le mont Nimba (1 752 m), proche du Liberia. Il est inscrit au patrimoine mondial de l'UNESCO5.
+
+La Guinée possède de nombreuses ressources. Cette abondance des ressources, notamment minières, lui vaut l'appellation de « scandale géologique »6. La Guinée est le premier pays mondial pour ses réserves prouvées de bauxite, le deuxième derrière l'Australie pour la production. Le très riche gisement de Sangarédi, à proximité de Boké, est exploité par la Compagnie des bauxites de Guinée. Le pays dispose également d'or (en Haute Guinée), de fer, de diamants, de pétrole et d'uranium.
+
+La réserve inexploitée de fer de Simandou, à l'est de Kissidougou, devrait être exploitée par le grand groupe minier anglo-américain Rio Tinto. Les accords ont été signés avec le gouvernement guinéen en 2014. </p> 
+<h1>Climat</h1>
+
+<p>Le climat est tropical à deux saisons : la saison des pluies, de mai à octobre (varie plus ou moins selon les régions), et la saison sèche. Pendant la saison des pluies, la moyenne mensuelle des précipitations peut atteindre 400 mm.
+
+La Guinée comprend quatre régions climatiques :
+
+    l’ouest, au bord de l'Atlantique, est très humide ;
+    le climat est plus tempéré au centre (deux saisons égales, pluies de mai à novembre) ;
+    au nord-est, le climat est tropical sec avec des pluies plus faibles, des températures élevées sauf de décembre à février lorsque le vent souffle (20 °C contre 40 °C) ;
+    le sud-est de la Guinée est subéquatorial avec une longue saison des pluies (8 à 10 mois) et des températures moyennes de 24 °C à 38 °C.
+
+Températures moyennes à Conakry : minimales : 22 °C, maximales : 32 °C ; à Labé : minimales : 13 °C (janvier), maximales : 33 °C (mars) ; à Kankan : minimales : 15 °C (janvier), maximales : 36 °C (mars).
+
+Les saisons ne correspondent pas à des variations des heures de lever et de coucher du soleil. La journée et la nuit durent environ 12 heures chacune, le soleil se lève vers 6 h 45 et se couche vers 18 h 45 avec peu de variation tout au long de l'année. L'heure locale est celle du fuseau horaire UTC±07. 
+ </p>
+
+<h1>Nature</h1> 
+
+<p>Village près de Siguiri, typique de la Haute-Guinée</p>
+
+La Guinée, en raison de ses climats et biomes diversifiés, est peuplée d'espèces animales, végétales et fongiques variées, dont certaines sont rares ou endémiques telle que Dictyna guineensis.
+
+Ainsi, en Guinée forestière, dans la zone couverte par la forêt tropicale humide, on trouve Nimbaphrynoides occidentalis, qui est un crapaud vivipare endémique de la zone du mont Nimba. Une population de chimpanzés existe aux alentours de Bossou. Une espèce d'hippopotame nain existerait également en forêt.
+Taxonomie
+
+La deuxième partie (ou espèce) du nom binominal de nombreuses espèces en botanique ou en zoologie est fréquemment guineensis signifiant en latin guinéen ou qui vit en Guinée. Ceci s'explique par la découverte de nombreuses espèces nouvelles pour la science sur le territoire de la Guinée. La plupart de ses espèces animales ou végétales rencontrées actuellement en Guinée se trouvent aussi dans de nombreux autres pays. C'est pourquoi certaines, ayant été nommées guineensis lors de leur découverte et de leur description, ont été renommées depuis, à la suite des révisions taxonomiques.
+Le papillon Euchromia guineensis
+Fleurs de l'orchidée Eulophia guineensis
+<ul>
+ <li>Exemples d'amphibiens : Hemisus guineensis et Phrynobatrachus guineensis</li>
+ <li>Exemples de sauriens : Acanthodactylus guineensis et Mochlus guineensis</li>
+ <li>Exemples d'araignées : Malloneta guineensis et Dictyna guineensis</li>
+ <li>Exemples d'insectes : Zorotypus guineensis un Zoraptera, Euchromia guineensis un Lepidoptera</li>
+ <li>Exemple d'oiseau : la Mésange galonnée Melaniparus guineensis</li>
+ <li>Exemple de poisson : Epiplatys guineensis</li>
+ <li>Exemples de plante : le palmier à huile Elaeis guineensis et l'orchidée Eulophia guineensis9</li>
+</ul>
+
+
+ <p>
+  <br>
+  <video controls src="../video/mali.mp4" class="vi" poster="../images/conflit.jpg"></video>
+   <video controls src="../video/mali1.mp4" class="vi1" poster="../images/a.png"></video>
+  </p>
+    <a href="#top">Monter la page</a>
+<script  src="../js/script2.js">
+</script>        
+</body>
+</html>

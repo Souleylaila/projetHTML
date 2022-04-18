@@ -1,0 +1,112 @@
+header{ border-radius:20px; background-image:url("../images/f.jpg"); padding-top:10px; padding-bottom: 5px;} 
+.c1{width: 360px; height:150px; border-radius:20px; margin-left:35%;}
+#can{float:left;width:10cm;height:7cm;margin-left:5px; margin-right:3px;     }
+nav{text-align:center; font-size:40px; padding:20px; border-radius:20px;}         
+.b1{text-decoration:none; color:burlywood; border-radius:10px; background-color:#333333;}
+.b1:hover{background-color:whitesmoke;}
+a:active{color:black;}
+a:hover{color: red}
+.c2{width:10cm;height:5cm  }
+input,select{font-size:20px; background-color:white; color:burlywood;}
+input:hover,select:hover{background-color:black;}
+.b3{background-color:whitesmoke; text-decoration:none; color:burlywood; border-radius:10px }
+.b2{font-size: 20px;}
+span{margin-left:45%; }
+.z{text-align: center; font-size:30px; color: red; }
+.po{position: relative;
+    top: 10px;
+    bottom: 10px;
+    left: 10px;
+    height: 7cm;
+    width: 10cm;
+    margin-right: 40px;
+	}
+.vi2{width:15cm; height: 5cm; margin-left:5cm;   }	
+.pow{margin-left:8cm;  height:70%; width:60%; }
+.vi,.vi1{float: left;width: 15cm;height:10cm; margin-left:5px; margin-right:10px; }
+
+tr,td{border:solid;  }
+table{border-collapse: collapse;}
+.colo{float: right; margin:3cm; }
+.monte{float: right; font-size:20px; }
+
+.soudan{float:left;margin:3px; }
+.ody{ background-image:url("../images/pp.jpg")}
+.manger{margin-left: 10px; width: 5cm;height: 5cm}
+h1,h2,h3,h4,h5,h6,caption{text-decoration: underline;}
+body{background-color:whitesmoke; }
+.conteneur{
+	width: 1000px; margin: 0 auto; 
+}
+.g{
+	height: 1060px; width: 1040px; float: left; background-image: url("../images/fd.jpg");
+}
+.d{
+	 height: 1000px; width: 780px; float: right;background-image: url("../images/fd.jpg");
+}
+
+.clear{
+	clear: both;
+}
+.e{
+	text-align: center;
+}
+.co{
+	width: 1800px; margin: 0 auto; 
+}
+
+.ga{
+	height: 1600px; width: 1590px; float: left; 
+}
+
+.do{
+	 height: 1600px; width: 210px; float: left;
+}
+
+#clear{
+	clear: both;
+}
+.bb{
+	width: 210px; height: 168px;
+}
+.ba{
+	width: 210px; height: 250px;
+}
+.bc{
+	width: 210px; height: 350px;
+}
+.bd{
+	width: 210px; height: 380px;
+}
+.be{
+	width: 210px; height: 319px;
+}
+.bg{
+	width: 210px; height: 380px;
+}
+.cc{
+	width: 2000px; height: 300px;
+}.ca{
+	 width: 1000px; height: 355px;
+}
+.cb{
+	width: 400px;height: 355px;
+}
+h1{
+	text-decoration: underline;
+}
+h2{
+	text-decoration: underline;
+}
+h3{
+	text-decoration: underline;
+}
+h4{
+	text-decoration: underline;
+}
+
+
+
+
+
+
